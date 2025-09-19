@@ -82,7 +82,7 @@ export default function GameScreen() {
             className="w-full h-14 text-lg font-semibold bg-gradient-to-r from-primary to-blue-600 hover:from-primary/90 hover:to-blue-600/90 transition-all duration-300 transform hover:scale-105"
           >
             <Icon name="Play" size={24} className="mr-2" />
-            Начать игру
+            Начать Тетрис
           </Button>
 
           {/* Рекорды */}
